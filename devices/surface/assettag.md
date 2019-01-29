@@ -25,30 +25,32 @@ To run Surface Asset Tag:
 To get the proposed asset tag:
 
 
-
-
     ```
   - Run AssetTag -g 
     ```
     **Example:**
-   C:\\assets\> C:\\assets\\AssetTag.exe -g
+   
     ```
-
+C:\\assets\> C:\\assets\\AssetTag.exe -g
     ```
 
 To clear the proposed asset tag:
-
+```
   - Run AssetTag -s
-
-For example - C:\\assets\> C:\\assets\\AssetTag.exe -s
-
+```
+ **Example:** - C:\\assets\> C:\\assets\\AssetTag.exe -s
+```
+ 
 To set the proposed asset tag:
 
+```
   - AssetTag -s testassettag12
 
 For example - C:\\assets\\AssetTag.exe -s testassettag12
+```
 
-**Note:** The asset tag value must contain between 1 and 36 characters.
+>[!NOTE]
+>The asset tag value must contain between 1 and 36 characters.
 Valid characters include A-Z, a-z, 0-9, period (.) and hyphen (-).
 
 ## Managing asset tags
