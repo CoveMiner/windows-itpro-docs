@@ -76,11 +76,14 @@ device:
 
 C:\\Windows\\System32\> (Get-WmiObject -query “Select \* from
 Win32\_SystemEnclosure”)
+```
 
 ### Using PowerShell
 
 You can use the script below as a way of getting the proposed value and
 interpreting any errors.
+
+```
 
 AssetTag -g \> $asset\_tag 2\> $error\_message  
 $asset\_tag\_return\_code = $LASTEXITCODE  
