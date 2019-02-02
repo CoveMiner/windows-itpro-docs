@@ -52,6 +52,7 @@ For example - C:\\assets\\AssetTag.exe -s testassettag12
 >[!NOTE]
 >The asset tag value must contain between 1 and 36 characters.
 Valid characters include A-Z, a-z, 0-9, period (.) and hyphen (-).
+```
 
 ## Managing asset tags
 
@@ -69,7 +70,7 @@ Surface Go.
 
 Alternately, you can use WMI to query the existing asset tag on a
 device:
-
+```
   - (Get-WmiObject -query “Select \* from Win32\_SystemEnclosure”)
     
     For example:
