@@ -64,7 +64,7 @@ The figure below shows the results of running the Asset Tag Tool on
 Surface Go.
 
 ![Results of running Surface Asset Tag tool on Surface Go.
-](media/image1.png)
+](images/assettag-fig1.png)
 
 > **Figure 1.** Results of running Surface Asset Tag tool on Surface Go
 
