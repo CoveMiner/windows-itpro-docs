@@ -44,14 +44,14 @@ To get the proposed asset tag:
     **Example:**
    
     ```
-C:\\assets\> C:\\assets\\AssetTag.exe -g
+ C:\assets\AssetTag.exe -g
     ```
 
 To clear the proposed asset tag:
 ```
   - Run AssetTag -s
 ```
- **Example:** - C:\\assets\> C:\\assets\\AssetTag.exe -s
+ **Example:** - C:\assets\AssetTag.exe -s
 ```
  
 To set the proposed asset tag:
@@ -59,7 +59,7 @@ To set the proposed asset tag:
 ```
   - AssetTag -s testassettag12
 
-For example - C:\\assets\\AssetTag.exe -s testassettag12
+For example - C:\assets\AssetTag.exe -s testassettag12
 ```
 
 >[!NOTE]
@@ -70,7 +70,7 @@ Valid characters include A-Z, a-z, 0-9, period (.) and hyphen (-).
 ## Managing asset tags
 
 You can view the existing asset tag in the UEFI settings under Device
-Information (**Control Panel \> Recovery \> Advanced Startup \> Restart
+Information (**Control Panel > Recovery > Advanced Startup > Restart
 now**.)
 
 The figure below shows the results of running the Asset Tag Tool on
