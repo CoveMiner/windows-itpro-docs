@@ -19,7 +19,7 @@ Although Surface devices are typically automatically updated with the latest dev
 
 ## Deploying MSI files
 Driver and firmware updates for Surface devices containing all required cumulative updates are available as separate MSI files packaged for specific versions of Windows 10. For example, for Surface Pro 6, there are separate MSI files for Windows 10 versions 16299, 17134, and 17763.
-When deploying updates to Surface devices in your organization, you need to first determine the appropriate .MSI file for the Windows version running on your target devices.
+When deploying updates to Surface devices in your organization, determine the appropriate .MSI file for the Windows version running on your target devices.
 
 ### Naming convention for Surface MSI files
 Each .MSI file is named in accordance with a formula that begins with the product and Windows release  information, followed by the Windows OS floor number and version number, and ending with the revision of version number:
