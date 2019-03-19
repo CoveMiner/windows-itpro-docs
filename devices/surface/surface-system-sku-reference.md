@@ -86,9 +86,9 @@ There are no downloadable firmware or driver updates available for Surface devic
 
 For more information about deploying Surface drivers and firmware, refer to:
 
-- [Manage Surface driver and firmware updates](https://docs.microsoft.com/surface/manage-surface-pro-3-firmware-updates).
+- [Manage Surface driver and firmware updates](https://docs.microsoft.com/surface/manage-surface-pro-3-firmware-updates)
 
-- [Microsoft Surface support for business](https://www.microsoft.com/surface/support/business).
+- [Microsoft Surface support for business](https://www.microsoft.com/surface/support/business)
 
 
 
