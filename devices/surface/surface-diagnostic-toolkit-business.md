@@ -153,7 +153,12 @@ You can select to run a wide range of logs across applications, drivers, hardwar
 - [Use Surface Diagnostic Toolkit for Business in desktop mode](surface-diagnostic-toolkit-desktop-mode.md)
 - [Use Surface Diagnostic Toolkit for Business using commands](surface-diagnostic-toolkit-command-line.md)
 
-
+## Version history
+### 2.36.139.0
+- Add improviements to Installer UI with an Advanced mode option that brings admin capabilities an alternative to the command line interface (CLI).
+- Accessibility improvements
+- Include Surface brightness control settings to logs
+- Include external monitor compatibility support link in report generator
 
 
 
