@@ -10,7 +10,9 @@ ms.topic: article
 ms.date: 06/11/2019
 ms.reviewer: cottmca
 manager: dansimp
----# Fix common Surface problems using the Surface Diagnostic Toolkit for Business
+---
+
+# Fix common Surface problems using the Surface Diagnostic Toolkit for Business
 
 If your Surface isn’t working properly, the Microsoft Surface Diagnostic Toolkit for Business can help you or your administrator find and solve problems.
 
