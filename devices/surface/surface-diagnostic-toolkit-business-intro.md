@@ -24,7 +24,7 @@ If your Surface isn’t working properly, the Microsoft Surface Diagnostic Toolk
 Before you run the diagnostic tool, make sure you have the latest Windows updates. Go to [Install Surface and Windows 10 updates](https://support.microsoft.com/en-us/help/4023505/surface-install-surface-and-windows-updates) for more information. If that doesn't solve the problem, you'll need to run the diagnostic tool.
 
 > [!NOTE]
-> The Surface Diagnostic Toolkit for Business only works on Surface devices running Windows 10. It does  not work on Surface Pro, Surface Pro 2, or Surface devices configured in S mode.
+> The Surface Diagnostic Toolkit for Business only works on Surface devices running Windows 10. It will not work on Surface Pro, Surface Pro 2, or Surface devices configured in S mode.
 
 **To run the Surface Diagnostic Toolkit for Business:**
 
